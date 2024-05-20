@@ -1,0 +1,49 @@
+Final output:
+
+Enter your line: The Project Gutenberg (our input)
+
+[‘The’, ‘Project’, ‘Gutenberg’] (takes the last three words of our input)
+
+literary (return a next word)
+
+
+Enter your line: The Project Gutenberg eBook of
+
+[‘Gutenberg’, ‘eBook’, ‘of’]
+
+pride
+
+
+Enter your line: how can you abuse your own
+
+[‘abuse’, ‘your’, ‘own’]
+
+children
+
+
+Enter your line: He was quite
+
+[‘He’, ‘was’, ‘quite’]
+
+young
+
+
+Enter your line: He could not help seeing that you were about five times as
+
+[‘five’, ‘times’, ‘as’]
+
+pretty
+
+
+Enter your line: and her sister
+
+[‘and’, ‘her’, ‘sister’]
+
+scarcely
+
+
+Enter your line: however, it may all come to
+
+[‘all’, ‘come’, ‘to’]
+
+nothing 
