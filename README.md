@@ -24,15 +24,25 @@ We have to choose on the basis of our project whether to choose LSTM or GRU.
 
 
 Steps to run the code:
+
 1.Open Jupyter Notebook and make new file .
+
 2.Run the following steps one by one .
+
 3. Import libraries
+   
 4. Load your file
+   
 5. Open and pre-process the data
+   
+   
 6.Implement tokenization and make additional adjustments.
+
 7.Creating the model
 model.
+
 8.Train the model.
+
 9.Let’s predict.
 
 Stay Tuned!
