@@ -1,4 +1,4 @@
-# SKWDI002-TASKS
+# SKWDI01B-TASKS
 Word Prediction using LSTM
 
 *Description*
